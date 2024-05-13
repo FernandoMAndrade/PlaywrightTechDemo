@@ -1,0 +1,12 @@
+{
+  "name": "playwrighttechdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["playwright", "typescript", "testing", "demo"],
+  "author": "Fernando Moura Andrade",
+  "license": "MIT",
+  "description": "A technical demonstration project showcasing advanced UI and API testing capabilities using Playwright and TypeScript."
+}
